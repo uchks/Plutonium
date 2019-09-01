@@ -10,7 +10,7 @@ Please send me a message on Twitter if you would like to be able to edit anythin
 <br>
 If you are trusted you may edit, otherwise please forward your suggestion to someone who can edit it.
 ***
-Make sure the PLutonium Legacy Installer is in the **Base Game folder, or where you want the game
+Make sure the Plutonium Legacy Installer is in the **Base Game folder, or where you want the game
 to be extracted.**
 <br>
 <br>
