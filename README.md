@@ -3,7 +3,7 @@
   <h3 align="center">A Call of Duty: Black Ops 2 Client</h3>
 </center>
 
-This repository acts as a wiki- and file-mirror.
+This repository acts as a installer.
 On this repository you may find the legacy installer created by Emosewaj & I.
 
 Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@sukarodo](https://twitter.com/sukarodo)
