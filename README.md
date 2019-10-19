@@ -27,3 +27,8 @@ Plutonium Legacy Installer
 Written by Emosewaj & Sukarodo, improved with bug reports from the community.
 <br>
 Legacy Installer uses 7zip and wget.
+***
+### Questions / Support
+- Discord: sukarodo#3078
+- Twitter: [@sukarodo](https://twitter.com/sukarodo)
+- Email: [sukarodo@protonmail.com](mailto:sukarodo@protonmail.com)
