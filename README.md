@@ -6,7 +6,7 @@
 This repository acts as a installer.
 On this repository you may find the legacy installer created by Emosewaj & I.
 
-Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@sukarodo](https://twitter.com/sukarodo)
+Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@truesyns](https://twitter.com/truesyns)
 <br>
 If you are trusted you may edit, otherwise please forward your suggestion to someone who can edit it.
 ***
@@ -29,6 +29,6 @@ Written by Emosewaj & Sukarodo, improved with bug reports from the community.
 Legacy Installer uses 7zip and wget.
 ***
 ### Questions / Support
-- Discord: sukarodo#3078
-- Twitter: [@sukarodo](https://twitter.com/sukarodo)
-- Email: [sukarodo@protonmail.com](mailto:sukarodo@protonmail.com)
+- Discord: syns#0001
+- Twitter: [@truesyns](https://twitter.com/truesyns)
+- Email: [realsyns@protonmail.ch](mailto:realsyns@protonmail.ch)
