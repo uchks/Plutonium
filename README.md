@@ -6,7 +6,7 @@
 This repository acts as a installer.
 On this repository you may find the legacy installer created by Emosewaj (base project) & I.
 
-Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@goodboysyns](https://twitter.com/goodboysyns)
+Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@qdxHimself](https://twitter.com/qdxHimself)
 <br>
 If you are trusted you may edit, otherwise please forward your suggestion to someone who can edit it.
 ***
@@ -29,6 +29,6 @@ Written by Emosewaj & syns, improved with bug reports from the community.
 Legacy Installer uses 7zip and wget.
 ***
 ### Questions / Support
-- Discord: syns#0001
-- Twitter: [@goodboysyns](https://twitter.com/goodboysyns)
-- Email: [me@syns.me](mailto:me@syns.me)
+- Discord: qdx#0001
+- Twitter: [@qdxHimself](https://twitter.com/qdxHimself)
+- Email: [jay@iloveemogirls.com](mailto:jay@iloveemogirls.com)
