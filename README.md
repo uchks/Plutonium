@@ -4,9 +4,9 @@
 </center>
 
 This repository acts as a installer.
-On this repository you may find the legacy installer created by Emosewaj (base project) & I.
+On this repository you may find the legacy installer created by [Emosewaj](https://github.com/Emosewaj) (base project) & I.
 
-Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@qdxHimself](https://twitter.com/qdxHimself)
+Please send me a message on Twitter if you would like to be able to edit anything (or create a PR): [@qdxHimself](https://twitter.com/intent/follow?screen_name=qdxHimself)
 <br>
 If you are trusted you may edit, otherwise please forward your suggestion to someone who can edit it.
 ***
@@ -24,11 +24,11 @@ To launch Plutonium run the game via t6rmp.exe or t6rzm.exe. (pu.exe is disconti
 ***
 Plutonium Legacy Installer
 <br>
-Written by Emosewaj & syns, improved with bug reports from the community.
+Written by [Emosewaj](https://github.com/Emosewaj) & qdx, improved with bug reports from the community.
 <br>
 Legacy Installer uses 7zip and wget.
 ***
 ### Questions / Support
 - Discord: qdx#0001
-- Twitter: [@qdxHimself](https://twitter.com/qdxHimself)
+- Twitter: [@qdxHimself](https://twitter.com/intent/follow?screen_name=qdxHimself)
 - Email: [jay@iloveemogirls.com](mailto:jay@iloveemogirls.com)
