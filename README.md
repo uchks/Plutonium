@@ -19,9 +19,9 @@ To launch Plutonium run the game via `t6rmp.exe` (Multiplayer) or `t6rzm.exe` (Z
 Unofficial Plutonium Legacy Installer
 <br>
 Written by [Emosewaj](https://github.com/Emosewaj) for [IW4X](https://xlabs.dev/)<br>
-Improved by qdx for [Plutonium](https://plutonium.pw/)
+Improved by device for [Plutonium](https://plutonium.pw/)
 ***
-### Questions / Support
-- Discord: qdx#0001
-- Twitter: [@qdxHimself](https://twitter.com/intent/follow?screen_name=qdxHimself)
-- Email: [jay@iloveemogirls.com](mailto:jay@iloveemogirls.com)
+### Contact Information
+- discord: device#0001
+- twitter: [@localdevice](https://twitter.com/intent/follow?screen_name=localdevice)
+- email: [git@jasons.faith](mailto:git@jasons.faith)
